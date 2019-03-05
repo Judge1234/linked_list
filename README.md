@@ -1,2 +1,2 @@
 
-<h4>Interface for a linked list data structure (WIP)</h4>
+<h4>Basic interface for a linked list data structure</h4>
